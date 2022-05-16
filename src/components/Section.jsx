@@ -3,7 +3,7 @@ import Fade from 'react-reveal/Fade';
 
 const Section = () =>{
     return (
-        <Fade top>
+        <Fade bottom>
         <div className="techsContent">
 
 
